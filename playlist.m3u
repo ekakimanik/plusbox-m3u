@@ -1,123 +1,119 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/btv.png" group-title="bangla",BTV
-https://plusbox.tv:8080/BTV/index.m3u8?token=f0e5b152dbdd794677545a1bcae0be29b8c847b2-4a2b7404967428a2390c7144fcc44d13-1792313640-1792302840
+https://plusbox.tv:8080/BTV/index.m3u8?token=8527f84510c39cdd696c84fb8ba44bf2e6f69747-356a3d5c69e380466e2376399ae7e6c5-1792831769-1792820969
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/btvworld.png" group-title="bangla",BTV World
-https://plusbox.tv:8080/BTVWorld/index.m3u8?token=f2701e72626ed92190fb7ec73603e5da803ed3f6-4ed24839f419282a1f73511e81bcebc6-1792313640-1792302840
-#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/atnbangla.png" group-title="bangla",ATN Bangla
-https://plusbox.tv:8080/ATNBangla/index.m3u8?token=47c8a6b326ab8c3e776648b506cfaf4ab624e41c-2d1d56045071dafd4f9b7eb573dff579-1792313640-1792302840
+https://plusbox.tv:8080/BTVWorld/index.m3u8?token=529ba714070321584fa7705e9ed1cc85d7b1de26-30148784e8eeb752bea734b2d3a807df-1792831770-1792820970
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/atnislamic.png" group-title="bangla",ATN Islamic
-https://plusbox.tv:8080/ATNIslamic/index.m3u8?token=6afa483fe09adb277e6adbab050b2a29dce902d9-cfac9e5a451c953c4cc2f7a53db6d602-1792313641-1792302841
+https://plusbox.tv:8080/ATNIslamic/index.m3u8?token=6afd3ae0a1bf499bbe076ba54b326b4c60f56ff7-083480e0f102de23f71a80e8300d9902-1792831770-1792820970
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/banglatv.png" group-title="bangla",Bangla TV
-https://plusbox.tv:8080/BanglaTV/index.m3u8?token=b850a2abeecf4578bf73abbb45239ea4ac64e4b4-9c617cd5c42358fa247863e245a3fe99-1792313641-1792302841
+https://plusbox.tv:8080/BanglaTV/index.m3u8?token=8d9d9dc711c152e11ab4a96c7f0bcb0b8738f9c8-75d9103b69a4fa276627862775ef55c6-1792831771-1792820971
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/channel24.png" group-title="bangla",Channel 24
-https://plusbox.tv:8080/Channel24/index.m3u8?token=948d42656e9485983f2713ca5c3371e2765b2830-a73431a2c6a729ce53d83632707e0802-1792313642-1792302842
+https://plusbox.tv:8080/Channel24/index.m3u8?token=181efcc8e9cf5a597b64ca5da1937ea0f6fdb956-b6bb5cd295f658393c79e76c03bddb06-1792831771-1792820971
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/channels.png" group-title="bangla",Channel S
-https://plusbox.tv:8080/ChannelS/index.m3u8?token=a2e07a9e7d41cdeca8d276d6016799a024c1b679-6968dc8350b44d5c6122329a4ed55194-1792313642-1792302842
+https://plusbox.tv:8080/ChannelS/index.m3u8?token=7566f97490167a1595810b077869f6f090454157-d74779db7cc7e6bdb7fdcd1abaa2d45e-1792831771-1792820971
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/dbcnews.png" group-title="bangla",DBC News
-https://plusbox.tv:8080/DBCNews/index.m3u8?token=6ab4d0df52dda1558270b8e3254872723b56f998-17bcb2cb5f8b97a176c036d2ea7f0a66-1792313642-1792302842
-#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/channelone.png" group-title="bangla",Channel One
-https://plusbox.tv:8080/ChannelOne/index.m3u8?token=e33de8b80639823b28ae0249c80841c4f66f7525-7a2cae9c2454526020e075ae1cc93a4f-1792313643-1792302843
+https://plusbox.tv:8080/DBCNews/index.m3u8?token=ccff45ad780353f0b5d09b2550c25b647c188701-4fccb54d592478a6961b9640ead2b660-1792831772-1792820972
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/deshtv.png" group-title="bangla",Desh TV
-https://plusbox.tv:8080/DeshTV/index.m3u8?token=29fa096914b54d50491c5a6237756998ae0e06cb-3b7ecf4316eb0b9fbb983e34c8bcdc35-1792313643-1792302843
+https://plusbox.tv:8080/DeshTV/index.m3u8?token=6c70c8bb4c0cf384edeb923fe899ed2ec475ff0e-feb7f97fad365b6cf31e9f5e8438f68a-1792831772-1792820972
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ekattortv.png" group-title="bangla",Ekattor TV
-https://plusbox.tv:8080/EkattorTV/index.m3u8?token=8f909ea4655380ac1e34b7744ae68234d3d4fc12-dd08d75735aa81ae80b959432b982ef6-1792313644-1792302844
+https://plusbox.tv:8080/EkattorTV/index.m3u8?token=b78894ba1237e5694bf921131e1976c5a43479a4-0796947fb6c67d0ed7eb4e77bca4f786-1792831773-1792820973
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ekusheytv.png" group-title="bangla",Ekushey TV
-https://plusbox.tv:8080/EkusheyTV/index.m3u8?token=21d8556758a3708c6eeff0a6be9627a32b1dc550-79b12d3f317e0d084c4caa4b7d963e1b-1792313644-1792302844
+https://plusbox.tv:8080/EkusheyTV/index.m3u8?token=93d296c9a12a1d4c0c48e4fbe14aa801ec7454c7-0196f45a2fe55fa4a67651291af0a74a-1792831773-1792820973
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/jamunatv.png" group-title="bangla",Jamuna TV
-https://plusbox.tv:8080/JamunaTV/index.m3u8?token=c90cc2c9bb4341be00b7ea53b41a1a3126a377a7-2bbca553eb63e35bb1af37cd4694af6b-1792313644-1792302844
+https://plusbox.tv:8080/JamunaTV/index.m3u8?token=039a006190b78bb9fba45a4205d42eabf0830360-c0f7c9a0449f9a13dd03cba5aeb04a15-1792831773-1792820973
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/news24.png" group-title="bangla",News 24
-https://plusbox.tv:8080/News24/index.m3u8?token=3b13c0b7c72bb191d9aabe001e3123e479a68f3d-2c723637920c1bf885a29bfb6dcb98b6-1792313645-1792302845
+https://plusbox.tv:8080/News24/index.m3u8?token=f4c15a65c20fce3c8608855def16800588053d4e-9484ac2877b9d2b6c9200a852ee8d2f2-1792831774-1792820974
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/starnews.png" group-title="bangla",Star News
-https://plusbox.tv:8080/StarNews/index.m3u8?token=48a71a9fc085aa597b05c7a0f40a64a7985a35a9-08e0aa5680bafb09352425d619209f32-1792313645-1792302845
+https://plusbox.tv:8080/StarNews/index.m3u8?token=1c4819a7c2cb9a6e5fc5381eaa6973377a3ccc2a-cc73238dc8b616a9932f4a600c16da10-1792831774-1792820974
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/moviebangla.png" group-title="bangla",Movie Bangla
-https://plusbox.tv:8080/MovieBangla/index.m3u8?token=ed497fc3133439dbc665313d7ce035e4d06f342d-303ebccf4b86d85743a2ede74e07bfb8-1792313646-1792302846
+https://plusbox.tv:8080/MovieBangla/index.m3u8?token=46ec335a0d4179f6bbe0d3bcfd591a9ab4d87473-91b29fadba9e2313c69d8b0f9fba293e-1792831775-1792820975
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ekhontv.png" group-title="bangla",Ekhon TV
-https://plusbox.tv:8080/EkhonTV/index.m3u8?token=b45637eb0da339c08803377bd8f2f80e7c66c489-65079b29c441722fc81e12a637428298-1792313646-1792302846
+https://plusbox.tv:8080/EkhonTV/index.m3u8?token=6810ba8be48015981b9014321d027ad3e2ab27f3-2026eb9608868b046bead7cc4a0eee6a-1792831775-1792820975
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/globaltv.png" group-title="bangla",Global TV
-https://plusbox.tv:8080/GlobalTV/index.m3u8?token=c326a0238be182c0dbda8ad66552cd6e4a751fad-d86a0da7f5117089ab87353cd0a31b13-1792313646-1792302846
+https://plusbox.tv:8080/GlobalTV/index.m3u8?token=4ac62e1c7272bca08e39313cb432e877fb6a7df0-02525569f25b03709613dd988f6ee01a-1792831775-1792820975
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/tencricket.png" group-title="sports",Ten Cricket
-https://plusbox.tv:8080/TenCricket/index.m3u8?token=094337e0163b109a7b52a5bbd2aac2d2272afe00-5256ee0ac78a128517857c8291596919-1792313647-1792302847
+https://plusbox.tv:8080/TenCricket/index.m3u8?token=0cfe5054d953d95df54c637b475472a544cb20d7-5523bc75d87217d6ae5a594e605fe189-1792831776-1792820976
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/indiatoday.png" group-title="hindi",India Today
-https://plusbox.tv:8080/IndiaToday/index.m3u8?token=5989c05dc4db90333c784cee99f12070f455b512-4c3c35f11a89f3a57f206b0578a7a5d9-1792313647-1792302847
+https://plusbox.tv:8080/IndiaToday/index.m3u8?token=4a839d2ebfd58b9fe43fd677dec3cb4c9ea50a06-cd6d540c2a781a9888f890fca658659d-1792831776-1792820976
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/aajtak.png" group-title="hindi",Aajtak
-https://plusbox.tv:8080/Aajtak/index.m3u8?token=6ddabcc0dc1dc9c7c549e17424135339e416682f-fb8f1f07b993725e0a8d5b590a2100ad-1792313648-1792302848
+https://plusbox.tv:8080/Aajtak/index.m3u8?token=a8d8b33b8c335dda2e3fce3f87a93160643baaac-d4635f6942876880668174b3361f85d9-1792831777-1792820977
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/wion.png" group-title="other",WION
-https://plusbox.tv:8080/WION/index.m3u8?token=6d2c7227b28678d06b291748ead4db0eebaf4263-e43146f16b318d388e9fe25332f28dc5-1792313648-1792302848
+https://plusbox.tv:8080/WION/index.m3u8?token=e5b1c4ebba721ab94c05a3a699098011a1ed51b6-0e42fb1b96f8f2d72628f57c0b3ea129-1792831777-1792820977
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/cartoonnetwork.png" group-title="other",Cartoon Network
-https://plusbox.tv:8080/CartoonNetwork/index.m3u8?token=2ddffb63af9f4cf675f49ab7322a58ac0ed4ddc2-874dc8004f447e5fd26d71e8fae5fd50-1792313649-1792302849
+https://plusbox.tv:8080/CartoonNetwork/index.m3u8?token=60b7eb7b890525b6743e3083b7e232431b06580a-e3979823950aa92d3016b866e5d608b7-1792831777-1792820977
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/pogo.png" group-title="other",Pogo
-https://plusbox.tv:8080/Pogo/index.m3u8?token=854a9a9b8fbe7824bfd153bd218bea234d103dce-d63dccef2795f72f48dde647fb779f6f-1792313649-1792302849
+https://plusbox.tv:8080/Pogo/index.m3u8?token=9fceea138784fe7634400f9637ea535208befc3d-1e3cad0c0bbde789bad12d743f32783d-1792831778-1792820978
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/aljazeera.png" group-title="english",Aljazeera
-https://plusbox.tv:8080/Aljazeera/index.m3u8?token=a846412c914ba78b8fbe8656c57ec8ece5f1d32d-9ba5ee4d67446ea46eab9089d93d5bdf-1792313649-1792302849
+https://plusbox.tv:8080/Aljazeera/index.m3u8?token=c6619d1b528b24e52610868088b760f447d6564a-d88314277182d188bce48b2aa995b318-1792831778-1792820978
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/cnn.png" group-title="other",CNN
-https://plusbox.tv:8080/CNN/index.m3u8?token=7bf62316875b7b2cbcd8c1b0301b83fb3e72b3bb-6277ff65558e6659fb1b57f5198c1e6b-1792313650-1792302850
+https://plusbox.tv:8080/CNN/index.m3u8?token=3c30506965ebd416ef1f23483d26d7ab29167db8-25561e0cb395d547dae22e3e000511e1-1792831778-1792820978
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/dw.png" group-title="other",DW
-https://plusbox.tv:8080/DW/index.m3u8?token=6702413519caca21bb56898aa234475ec64b4adc-ec1514dfc20ed9670b8ddc661c077f5e-1792313650-1792302850
+https://plusbox.tv:8080/DW/index.m3u8?token=209ac73666130b323324c8203d6b8f54d6af5f92-eae662c2f052a06c4c9d697e91f6d57e-1792831779-1792820979
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/bloomberg.png" group-title="english",Bloomberg TV
-https://plusbox.tv:8080/BloombergTV/index.m3u8?token=71d3d23101d837cdb4970c0fb39396b1411aeeed-1bdce8ae1c21206ce3ef12759f324710-1792313651-1792302851
+https://plusbox.tv:8080/BloombergTV/index.m3u8?token=d7eb91cfc3310917bee23cf47598d964b763f418-5af9d6db8930979dd7a79e05aceca5ba-1792831779-1792820979
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/redbulltv.png" group-title="english",RedBull TV
-https://plusbox.tv:8080/RedBullTV/index.m3u8?token=f43930ceafbf529a7681c74fea08e797742b0426-b284b021100e0f4a50755eccbe46a259-1792313651-1792302851
+https://plusbox.tv:8080/RedBullTV/index.m3u8?token=a9780bbe679d2bcc07660d031fcca582f06fd536-2e08bdb86d57a628d8488f5d29ebfda1-1792831780-1792820980
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/russiatoday.png" group-title="english",Russia Today
-https://plusbox.tv:8080/RussiaToday/index.m3u8?token=f8058ce3dfd3ef7f8b979bfb02328faba01b7455-60163c084374512fa7727045c9ce68ca-1792313652-1792302852
+https://plusbox.tv:8080/RussiaToday/index.m3u8?token=0ab237e2feb9d5e0093fc55dec76336baa787b93-dd5b9763cc68019c7bf00f8f6fd2f8d7-1792831780-1792820980
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/skynews.png" group-title="other",Sky News
-https://plusbox.tv:8080/SkyNews/index.m3u8?token=94524b4b5df269da2fe7c008742002100dd8aaf9-2192397a7cd9374b72e717a8978554ac-1792313652-1792302852
+https://plusbox.tv:8080/SkyNews/index.m3u8?token=0c947a1c59b32dfa61ceea4d10012e4a564b48a8-171f36cacb63e9627213bc55e9483537-1792831780-1792820980
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/gbnews.png" group-title="other",GB News
-https://plusbox.tv:8080/GBNews/index.m3u8?token=88ab59cdb9b3a4fb3af278b10529ec87e2b23b2d-97053e3f92b1f358094cf646680d60bf-1792313652-1792302852
+https://plusbox.tv:8080/GBNews/index.m3u8?token=b8de628a228319d961488905bdb6322724819bf8-641e7b4d2657be3966e3aaaf9e027476-1792831781-1792820981
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/9xjhakaas.png" group-title="hindi",9X Jhakaas
-https://plusbox.tv:8080/9XJhakaas/index.m3u8?token=a50d74db527cc65dc16f37aee641e092debbc2c8-33f48b06363c41fe6f3c01fc58b4b921-1792313653-1792302853
+https://plusbox.tv:8080/9XJhakaas/index.m3u8?token=69089b8156349c182fb7e60cdf4c8cbdd36dce08-83b7530aede14b8bef7f13fb1a600a11-1792831781-1792820981
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zing.png" group-title="hindi",Zing
-https://plusbox.tv:8080/Zing/index.m3u8?token=8db03ce2e2ce07ef07c9b3c74dccb94a81101c95-eea74f5949b0e46b2a9c097a254578b7-1792313653-1792302853
+https://plusbox.tv:8080/Zing/index.m3u8?token=d17b9e45e92ab03ea167a2c0e42c36df61ae60b5-264896caf9a0d3bb3d64bd46ed234d64-1792831782-1792820982
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/b4umusic.png" group-title="hindi",B4U Music
-https://plusbox.tv:8080/B4UMusic/index.m3u8?token=9b2a78665dfc33ab5632ec2abc33b69becc633af-280a6b5dc111a966ca898d62521dfb06-1792313654-1792302854
+https://plusbox.tv:8080/B4UMusic/index.m3u8?token=a713ad3b93bed2b1bc4161d9b47ad681473fd1f5-a18a83dff3d65835925e2873e1ce3ec9-1792831782-1792820982
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/b4umovies.png" group-title="hindi",B4U Movies
-https://plusbox.tv:8080/B4UMovies/index.m3u8?token=62c05292c3279e2151085687a0c400af9f4fc67a-4e80c221bfece8222c01ce549358d17d-1792313654-1792302854
+https://plusbox.tv:8080/B4UMovies/index.m3u8?token=3aa64a4d044b2a65f3866180ddd8e7a47274346f-e281da398c19ab315a78aafbcaae8664-1792831783-1792820983
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/bbcearth.png" group-title="english",BBC Earth HD
-https://plusbox.tv:8080/BBCEarthHD/index.m3u8?token=392e595b08f5be14b0f843efadcada0bdb0ab461-1762f63bf30b88fff03a2193e3e3ced8-1792313654-1792302854
+https://plusbox.tv:8080/BBCEarthHD/index.m3u8?token=37ff4f41be50e9140e43020cf8f3132f9140ea3d-823d31b445975334b2199aa5a34985b4-1792831783-1792820983
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/discoveryscience.png" group-title="hindi",Discovery Science
-https://plusbox.tv:8080/DiscoveryScience/index.m3u8?token=387838157096b669712419e0bc4538f91860e386-783bc6a0e831a664487a75da1884d1ae-1792313655-1792302855
+https://plusbox.tv:8080/DiscoveryScience/index.m3u8?token=d60db2cd095aa4b3351b3a2d9f7501919465b590-b485c41225d05d65977646b3577cc66b-1792831784-1792820984
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/discoveryturbo.png" group-title="english",Discovery Turbo
-https://plusbox.tv:8080/DiscoveryTurbo/index.m3u8?token=e37d187dd4ec98dbe1d9c5f10f231285842f1dc5-419339e638ce242acc983d37ead19db0-1792313655-1792302855
+https://plusbox.tv:8080/DiscoveryTurbo/index.m3u8?token=e97fe8e309966d7ce96ffcaf60dc84654e8847c3-84a2ddd94920eb159a582bddda2d1bc0-1792831784-1792820984
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/discoveryhdworld.png" group-title="english",Discovery HD
-https://plusbox.tv:8080/DiscoveryHD/index.m3u8?token=00b6ddda5ec2968b481202b3bfa21aa902849dcb-dd27931c8fab8249e61f0afd32b6082f-1792313655-1792302855
+https://plusbox.tv:8080/DiscoveryHD/index.m3u8?token=631b125824ecb0ea5e7877d230e93514ae9643e5-f51f0b3c9b3e9201d8911976617ee5cc-1792831784-1792820984
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/discoverykids.png" group-title="hindi",Discovery Kids
-https://plusbox.tv:8080/DiscoveryKids/index.m3u8?token=cfc169183144e0ae1df541b8217614800a484890-a487b72f5a0d2bb089c21c77941ef32b-1792313656-1792302856
+https://plusbox.tv:8080/DiscoveryKids/index.m3u8?token=e733761743634200e4b1db5f7b893f2700c3b1aa-a18515fb17d2c109bee60965300324c1-1792831785-1792820985
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/invdiscoveryhd.png" group-title="other",Inv Discovery HD
-https://plusbox.tv:8080/InvDiscoveryHD/index.m3u8?token=ba568a26848bd28ba4a769efadfba76db97f9bc8-697b58cdc557b069bd2e2a75880393ab-1792313656-1792302856
+https://plusbox.tv:8080/InvDiscoveryHD/index.m3u8?token=dbe265075d26a663b4c36956b73194ae688c28d5-1751647f64fab0adbc01d3bf2b9ff819-1792831785-1792820985
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/animalplanet.png" group-title="other",Animal Planet
-https://plusbox.tv:8080/AnimalPlanet/index.m3u8?token=2450ed034725c3e0bdd60c6681f9924ea9e36488-fe4ecb70375ebe580a5ad6d755f9777c-1792313657-1792302857
+https://plusbox.tv:8080/AnimalPlanet/index.m3u8?token=1ed090a553fe021e9620d854e569ea62a5bfb7af-5df0d26dd4d5a8b0cbbe156c97c81ce0-1792831786-1792820986
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/tlchd.png" group-title="english",TLC HD
-https://plusbox.tv:8080/TLCHD/index.m3u8?token=4a3f49ce194ebfc3b74eb9d2cad8b220a3930729-6c6aa1f0930e59e1c566b12b688cf46a-1792313657-1792302857
+https://plusbox.tv:8080/TLCHD/index.m3u8?token=29ac2e2df504dfe9f2ffe548af225f4e4fcaceae-5e4b3d0ac2541d5a2a9a6ddfb4d81b92-1792831786-1792820986
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/sonymaxhd.png" group-title="hindi",Sony Max HD
-https://plusbox.tv:8080/SonyMaxHD/index.m3u8?token=b6ccbfa9f0dc10d41eba74955b0b151dbf272a1b-27d2895941130b43b5ede13a9a5d79a7-1792313657-1792302857
+https://plusbox.tv:8080/SonyMaxHD/index.m3u8?token=49e84df7b6596db4de86f641019a837e75f7e353-f5c4b933ec9242ab93c2331492a02100-1792831787-1792820987
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/sonyyay.png" group-title="hindi",Sony YAY
-https://plusbox.tv:8080/SonyYAY/index.m3u8?token=9a92666fb4c863a66da9a1e4f07d92a6a979d358-849fa5646d9ca8d84179eec752e32226-1792313658-1792302858
+https://plusbox.tv:8080/SonyYAY/index.m3u8?token=9ebd701e2892c2511ca72f144daae1a489b275f3-4b6da2dd7a79e4cc57037f631146c528-1792831787-1792820987
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/sonymax2.png" group-title="hindi",Sony MAX2
-https://plusbox.tv:8080/SonyMAX2/index.m3u8?token=1b68a719d7582043fbcb647239d83037d109c200-aea0b3d4090c9c2473bf0eba3b40b1d5-1792313658-1792302858
+https://plusbox.tv:8080/SonyMAX2/index.m3u8?token=85708a3e58eefbc1520b918a830c0017b9641564-4c15a5555fa35eb5dbcb19aed2ee020b-1792831788-1792820988
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/sonypixhd.png" group-title="english",Sony Pix HD
-https://plusbox.tv:8080/SonyPixHD/index.m3u8?token=f1ddb6ff8ee7e76dcc3d5e6847cfc7d364ae55e5-a7c471446ccfbab8eff7aae3eef6d567-1792313658-1792302858
+https://plusbox.tv:8080/SonyPixHD/index.m3u8?token=7a44b979dc1faddef26ca2d3b27237ba03cbd0ef-15cf87393ee9a0f432c641c95969e01e-1792831788-1792820988
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ten1.png" group-title="sports",Sony Ten 1 HD
-https://plusbox.tv:8080/SonyTen1HD/index.m3u8?token=7e2c78bbeaa0ae11dcee8799293a2f8b326f019c-7f45eb5cf7fa345d42c442f7753819d9-1792313659-1792302859
+https://plusbox.tv:8080/SonyTen1HD/index.m3u8?token=4f632f6a89c4a27cef88575cc432cc1964ef25b7-dcb416642d4d1329f886a38d2a005cfb-1792831788-1792820988
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ten2.png" group-title="sports",Sony Ten 2 HD
-https://plusbox.tv:8080/SonyTen2HD/index.m3u8?token=6a3cff87994055a5780ed46d7a18e9de4a4c79e9-286901f41e16eb4a6389d2e9688006a0-1792313659-1792302859
+https://plusbox.tv:8080/SonyTen2HD/index.m3u8?token=e774dc2aa3ef80ba9f500fa72f183f375c1da004-f61de39bb184991ff2926926c4eb6867-1792831789-1792820989
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ten3.png" group-title="sports",Sony Ten 3 HD
-https://plusbox.tv:8080/SonyTen3HD/index.m3u8?token=c95e4628aac5817acc48affcfd5ac373424ab19b-1a5b66c904a1e883bc8fca1703e2e104-1792313660-1792302860
+https://plusbox.tv:8080/SonyTen3HD/index.m3u8?token=324dc3a53db934a0be3b17d351993309548221d0-2586f7dff8dfb21ec6fd91bc156e87c4-1792831789-1792820989
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/eurosport.png" group-title="sports",EUROSPORT
-https://plusbox.tv:8080/EUROSPORT/index.m3u8?token=5bbe4b109fb8ef3e3095abf1a246a470ee9d0777-4165e157586740a6e8201a76995734c0-1792313660-1792302860
+https://plusbox.tv:8080/EUROSPORT/index.m3u8?token=dbe8e95bfce021313d8ba50e831c2a25d125e0da-15cb1841e3e0668c7d21bb8b26239181-1792831790-1792820990
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/&pictureshd.png" group-title="hindi",And Pictures HD
-https://plusbox.tv:8080/AndPicturesHD/index.m3u8?token=c35a86edf9209266e061319e7e2a46c9843b96c1-c6ed3f3ef4148d92815edab8c45e2528-1792313661-1792302861
+https://plusbox.tv:8080/AndPicturesHD/index.m3u8?token=964f0016e125ea7ea39d8c38dbd64ef3c998091e-db9e56e78315d4c018f5c30c42733b92-1792831790-1792820990
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeetv.png" group-title="hindi",Zee TV HD
-https://plusbox.tv:8080/ZeeTVHD/index.m3u8?token=0b873c0a3b66938a537900d91459ac68ee35e3f9-8c8752958fdd4f17883826f1fb59f335-1792313661-1792302861
+https://plusbox.tv:8080/ZeeTVHD/index.m3u8?token=3c3c2fdcb5736c39660dd0acfcbc2ff317a6e03e-a2613450778db451303ef204045069ee-1792831791-1792820991
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeebanglahd.png" group-title="hindi",Zee Bangla HD
-https://plusbox.tv:8080/ZeeBanglaHD/index.m3u8?token=62f43cecd7a5eb5c5e74c1a837a062baa0cc71b9-7c072443f3a1df96119ec5cdc3e90862-1792313661-1792302861
+https://plusbox.tv:8080/ZeeBanglaHD/index.m3u8?token=7fdcaeaad0a4a089cf1e493ca90ba1d60d87b93a-c82432852920b2e1c9618b97e954d0a7-1792831791-1792820991
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeebanglacinema.png" group-title="hindi",Zee Bangla Cinema
-https://plusbox.tv:8080/ZeeBanglaCinema/index.m3u8?token=6aa05ededdb905bf8697e7f92288d043995f6242-12e0b818d388fdb8696b576009723922-1792313662-1792302862
+https://plusbox.tv:8080/ZeeBanglaCinema/index.m3u8?token=d752c0b9cc40d29906494ff9dcc4fba88e893fda-f9b44b0977b42285674093ce21b784ca-1792831792-1792820992
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeebollywood.png" group-title="hindi",Zee Bollywood
-https://plusbox.tv:8080/ZeeBollywood/index.m3u8?token=7fba60798bc3168379819b406f6aa223bfb65e75-9569633e6e72325a407682e20ff29cea-1792313662-1792302862
+https://plusbox.tv:8080/ZeeBollywood/index.m3u8?token=cf1a42daa984a542094baad734b2008fdd2087c1-dbf9503cde43319e4c0a3d87c6c33dab-1792831792-1792820992
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeeaction.png" group-title="hindi",Zee Action
-https://plusbox.tv:8080/ZeeAction/index.m3u8?token=5038e72996cc5473f5f7d092841a061ce91ec451-5b1f021fe4e8126789be5c5cbdd48b6f-1792313663-1792302863
+https://plusbox.tv:8080/ZeeAction/index.m3u8?token=5a8d1998d7376714b63a149909d2d61b19e39fed-70324f1fdb7cbaf6ba1c1cee72a29fa4-1792831792-1792820992
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeecafe.png" group-title="hindi",Zee Cafe
-https://plusbox.tv:8080/ZeeCafe/index.m3u8?token=d2f6dbd2954c2f69c687a9f7f8b20d3c4e789e65-b0a51b062504b01929acc8b0ae7f0f4f-1792313663-1792302863
+https://plusbox.tv:8080/ZeeCafe/index.m3u8?token=41ee0142e05d5d1085c024dabc082c4833ab8da7-b87923b7f30d3aa43bda1c5947951c7e-1792831793-1792820993
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeecinemahd.png" group-title="hindi",Zee Cinema HD
-https://plusbox.tv:8080/ZeeCinemaHD/index.m3u8?token=f1ef2c5569dde33c642bb97452f161fa0597fd03-bc54025e6996bc4d15ab820d27c82787-1792313663-1792302863
+https://plusbox.tv:8080/ZeeCinemaHD/index.m3u8?token=9f6a12c0f2031f88425e99a7c5033ce9deb9cdf9-cdf702b4fdc1f3899441cf6dbc258430-1792831793-1792820993
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeeanmol.png" group-title="hindi",Zee Anmol
-https://plusbox.tv:8080/ZeeAnmol/index.m3u8?token=8b01f5eb0618438cc84b1af9bb093652c2ec4369-3989aa8c2856183bc446f5d9d974e3c8-1792313664-1792302864
+https://plusbox.tv:8080/ZeeAnmol/index.m3u8?token=5d97d68d0c3993ac217fe471813c803dc738d02c-0232ad2439bc093975c15a171c8275ca-1792831794-1792820994
